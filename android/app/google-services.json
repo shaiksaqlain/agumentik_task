@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "90020041513",
+    "project_id": "agumentic-task",
+    "storage_bucket": "agumentic-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90020041513:android:57e8178f765f9436295d38",
+        "android_client_info": {
+          "package_name": "com.example.agumentik_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90020041513-fmjv4miemjjcur88pc284h11uunuj8v8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAmwOzhJOL3-a7f2LM6f8AU_cEgfg7ffM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90020041513-fmjv4miemjjcur88pc284h11uunuj8v8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
